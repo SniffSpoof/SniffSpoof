@@ -1,6 +1,6 @@
 # Hi there! I'm - S̶n̸i̶f̴f̴S̵p̴o̸o̶f̴
 ## About me 
-🎯Hello everyone!*
+🎯Hello everyone!
 
 I am a Python developer, I will help you write a Telegram/VK/Discord bot. Also great with networking and ready to develop GUI applications🏆
 
