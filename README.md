@@ -1,4 +1,4 @@
-# Hi there! I'm - S̶n̸i̶f̴f̴S̵p̴o̸o̶f̴
+# Hi there! I'm - SniffSpoof
 ## About me 
 🎯Hello everyone!
 
