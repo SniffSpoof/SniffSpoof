@@ -7,7 +7,7 @@ I am a Python developer, I will help you write a Telegram/VK/Discord bot. Also g
 ⚒Technology stack: Tkinter, PyQt, MatPlotLib, NetworkX, Os, Subprocess, Telebot, vk_api, discord.py
 
 ## Work experience🖥💻
-### Technician programmer of the II category of the Computing Center of the ВЦ СО РАН, Department of Theoretical Programming (06.2019 - Now)
+### Technician programmer of the II category of the ВЦ СО РАН, Department of Theoretical Programming (06.2019 - Now)
 ---
 ### Freelancer (06.2022 - Now)
 
