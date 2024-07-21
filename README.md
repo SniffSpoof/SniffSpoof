@@ -4,7 +4,9 @@
 Hello everyone, my name is Fedor!
 
 I am a beginner Python developer. I am very interested in the development of various bots: Telegram, VK, Discord. I am ready to help you turn your idea into reality.
-Also interested in higher mathematics, machine learning and physics. 
+Also interested in higher mathematics, machine learning and physics.
+
+[![roadmap.sh](https://roadmap.sh/card/wide/669d58779a21cb3c68962f44?variant=dark)](https://roadmap.sh) 
 
 ## Education🎓
 - Bachelor's degree in Information and Communication Technologies, National Research University Higher School of Economics (2023 - expected)
