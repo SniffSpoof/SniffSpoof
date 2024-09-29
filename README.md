@@ -9,7 +9,8 @@ Also interested in higher mathematics, machine learning and physics.
 [![roadmap.sh](https://roadmap.sh/card/wide/669d58779a21cb3c68962f44?variant=dark)](https://roadmap.sh) 
 
 ## Education🎓
-- Bachelor's degree in Information and Communication Technologies, National Research University Higher School of Economics (2023 - expected)
+- Bachelor's degree in Information and Communication Technologies, National Research University Higher School of Economics (2023 - 2024)
+- Bachelor's degree in Applicated Math, Novosibirsk State University (2024 - expected)
 
 ## ⚒Technology stack
 ### GUI
