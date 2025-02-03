@@ -11,11 +11,13 @@ I am a AI Engineer passionate about creating intelligent systems and automating 
 - Bachelor's degree in Applicated Math, Novosibirsk State University (2024 - expected)
 
 ## ⚒Technology stack
+- PhiData, CrewAI, Autogen, Pydantic
+- langchain
 - TensorFlow, Keras, PyTorch
 - Scikit-learn
 - OpenCV
 - Hugging Face Transformers
-- SQL, SQLite, Postgres
+- SQLAlchemy, SQLite, PostgresSQL
 - Flask, FastAPI
 
 ## Projects
@@ -28,5 +30,5 @@ I am a AI Engineer passionate about creating intelligent systems and automating 
 - [Telegram](https://t.me/SniffSpoof)
 
 ## Work experience🖥💻
-- Technician programmer of the ВЦ СО РАН, Department of Theoretical Programming - Machine Learning (06.2019 - 04.2023)
-- Intern AI Engineer of m.mandarin.com (12.2024 - expected)
+- Technician programmer of the ВЦ СО РАН, Department of Theoretical Programming - Machine Learning (06.2019 - 12.2024)
+- Intern AI Engineer of m.mandarin.com - AI Engineer (12.2024 - expected)
