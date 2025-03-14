@@ -30,5 +30,5 @@ I am a AI Engineer passionate about creating intelligent systems and automating 
 - [Telegram](https://t.me/SniffSpoof)
 
 ## Work experience🖥💻
-- Technician programmer of the ВЦ СО РАН, Department of Theoretical Programming - Machine Learning (06.2019 - 12.2024)
+- Technician programmer of the ИВМиМГ СО РАН, Department of Theoretical Programming - Machine Learning (06.2019 - 12.2024)
 - Intern AI Engineer of m.mandarin.com - AI Engineer (12.2024 - expected)
