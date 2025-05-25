@@ -19,6 +19,8 @@ I am a AI Engineer passionate about creating intelligent systems and automating 
 - Hugging Face Transformers
 - SQLAlchemy, SQLite, PostgresSQL
 - Flask, FastAPI
+- Playwright
+- Aiogramm, Telethon
 
 ## Projects
 - [Connection tracing](https://github.com/SniffSpoof/Connection_trace)
@@ -26,7 +28,7 @@ I am a AI Engineer passionate about creating intelligent systems and automating 
 - [AutoPart numbers recognition](https://github.com/SniffSpoof/part-number-recognition)
 
 ## Contact me📱
-- [Email](mailto:fpalekseev13@yandex.ru)
+- [Email](mailto:fedor.alekseev13@yandex.ru)
 - [Telegram](https://t.me/SniffSpoof)
 
 ## Work experience🖥💻
